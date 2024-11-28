@@ -1,5 +1,5 @@
 # pro3.global|local-Aln
-<your name + student ID>
+<110703041 賴芷靚>
 
 ## Description
 
@@ -67,6 +67,8 @@ The correct answer gets 10 points for each testing data.
 * High code similarity to others: YOUR SCORE = 0
 
 ## References
+https://chatgpt.com/share/6743387a-aa78-800a-af8e-2d4b7637453b
+
 Please provide the code along with its reference. For example, you can cite it as: ```# ChatGPT, respond to “your prompt,” on February 16, 2023```. Below is an example of a reference format summarizing the use of ChatGPT for R programming
 
 >You are the R Language expert.
